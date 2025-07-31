@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <title>Pərvanə | IT Portfolio</title>
+</head>
+<body>
+  <h1>Salam! Mən Əlizadə Pərvanə</h1>
+  <p>Linux Administrator, IT Helpdesk üzrə təcrübəli mütəxəssisəm. Hal-hazırda DevOps və sistem administrasiyası öyrənirəm.</p>
+</body>
+</html>
